@@ -1,0 +1,44 @@
+.intro {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  flex-direction: column;
+  flex: 1;
+}
+
+.starters {
+  padding-top: 100px;
+}
+.intro h3 {
+  font-weight: 600;
+  font-size: 32px;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-align: center;
+  color: rgb(143, 143, 143);
+  cursor: not-allowed;
+}
+
+.initialized {
+  color: #fff !important;
+  cursor: pointer !important;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.loading {
+  min-height: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.loading h3 {
+  font-size: 24px;
+  color: #fff;
+}

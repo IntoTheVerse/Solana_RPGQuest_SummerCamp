@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url(./assets/bg.jpeg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  font-family: sans-serif;
+}
