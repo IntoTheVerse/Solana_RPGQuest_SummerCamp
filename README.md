@@ -32,6 +32,7 @@ We built a lightweight pixel Play To Earn dungeon game built on the Solana Block
 - Swap $SOL for $DUN(game token), on serum DEX swap (ALPHA) in game to deposit token in escrow to play (COMING SOON)
 
 # Tech Stack
+Anchor Frame along with Solana Program Library and Rust Smart Contracts were used to build the dApp and the game is built on React and Phaser.
 
 ![image](./screenshots/9.png)
 
@@ -113,6 +114,9 @@ view game at [http://localhost:3000/](http://localhost:3000/)
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/43913734/173236175-00d1ab47-cb13-42bb-ba5c-47272a4b2ac3.png">
 
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/43913734/173236196-73614693-7a00-4516-b9a8-ff0556230b00.png">
+
+<img width="1341" alt="image" src="https://user-images.githubusercontent.com/43913734/173236518-3b565f2f-9e00-4aef-a1ce-5deca8721077.png">
+
 
 
 
