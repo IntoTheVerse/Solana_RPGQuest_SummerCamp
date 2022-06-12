@@ -7,7 +7,7 @@
   <h6>Built at Enode Austin Hackathon Remote Participant</h6>
   </p>
 
-  <p>View the project demo on <a href="">YouTube</a></p>
+  <p>View the project demo on <a href="https://youtu.be/WIJR5L7eOD8">YouTube</a></p>
 </p>
 
 # ARCHITECTURE
