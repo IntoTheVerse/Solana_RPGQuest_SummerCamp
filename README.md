@@ -86,15 +86,35 @@ view game at [http://localhost:3000/](http://localhost:3000/)
 
 ### Gameplay
 
+**Player has to defeat all the monsters, collect loot, get the keys to unlock the Solana token gate to pass the level. After finishing the level, the user get's a SPL NFT Token minted via the Metaplex Candy Machine Standard Contract and the metadata is stored on ArWeave.**
+
+**Everytime, the user collects a chest, he is minted 20 DGN tokens as a reward**
+
+**These tokens are not to be minted once collected. Progress of the game is stored on-chain via the Solana Escrow Program**
+
 <img width="1440" alt="Screenshot 2022-06-12 at 6 51 04 PM" src="https://user-images.githubusercontent.com/43913734/173235800-f8192a87-49a8-4709-a069-049edd372db4.png">
 
 <img width="1440" alt="Screenshot 2022-06-12 at 6 51 20 PM" src="https://user-images.githubusercontent.com/43913734/173235809-16cb9991-7eb7-4922-9f82-fe9784d164c2.png">
 
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/43913734/173235853-da53a94f-dbff-44b5-bd2c-2a926008f906.png">
 
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/43913734/173235939-b15031da-ee6a-4479-806e-e8ef5c8045da.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/43913734/173235983-b5beface-8fb2-477b-ba29-fde7decc93de.png">
+
+<img width="275" alt="image" src="https://user-images.githubusercontent.com/43913734/173236018-26f4a60b-8483-49a0-b084-2c4ce57f8268.png">
+
+<img width="1338" alt="image" src="https://user-images.githubusercontent.com/43913734/173236097-a767c3d4-8ada-4bd4-941f-46f9ac113381.png">
+
+<img width="1320" alt="image" src="https://user-images.githubusercontent.com/43913734/173236133-25b895de-a7d3-4c1c-aad3-f0cc83499a1e.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/43913734/173236145-22af069c-b578-4e25-ba8b-bb9378615045.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/43913734/173236175-00d1ab47-cb13-42bb-ba5c-47272a4b2ac3.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/43913734/173236196-73614693-7a00-4516-b9a8-ff0556230b00.png">
 
 
-### Gameplay
 
 
 
