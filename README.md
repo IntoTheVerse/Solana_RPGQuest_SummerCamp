@@ -100,6 +100,9 @@ view game at [http://localhost:3000/](http://localhost:3000/)
 
 <img width="1439" alt="image" src="https://user-images.githubusercontent.com/43913734/185047871-987fa3f1-e190-478b-a34b-459ca15f57fc.png">
 
+# Choose Multiple Characters using metaplex
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/43913734/185048451-7dce72c2-7462-473e-908a-fceddf1f83ec.png">
+
 
 <img width="1440" alt="Screenshot 2022-06-12 at 6 51 04 PM" src="https://user-images.githubusercontent.com/43913734/173235800-f8192a87-49a8-4709-a069-049edd372db4.png">
 
