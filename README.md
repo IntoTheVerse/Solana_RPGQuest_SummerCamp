@@ -4,10 +4,10 @@
   <a href="/">
     <img src="./screenshots/logo.png" alt="Logo" width="480" height="480">
   </a>
-  <h6>Built at Enode Austin Hackathon Remote Participant</h6>
+  <h6>Built at Encode Austin Hackathon Remote Participant && Solana Summer Camp Hackathon</h6>
   </p>
 
-  <p>View the project demo on <a href="https://youtu.be/WIJR5L7eOD8">YouTube</a></p>
+  <p>View the project demo on <a href="">YouTube</a></p>
 </p>
 
 # ARCHITECTURE
