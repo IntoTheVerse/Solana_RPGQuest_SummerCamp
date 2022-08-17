@@ -5,6 +5,7 @@
     <img src="./screenshots/logo.png" alt="Logo" width="480" height="480">
   </a>
   <h6>Built at Encode Austin Hackathon Remote Participant && Solana Summer Camp Hackathon</h6>
+  <img width="341" alt="image" src="https://user-images.githubusercontent.com/43913734/185039532-23096014-f551-4e29-8bd5-fecd55acf6c0.png">
   </p>
 
   <p>View the project demo on <a href="">YouTube</a></p>
