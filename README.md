@@ -32,7 +32,8 @@ We built a lightweight pixel Play To Earn dungeon game built on the Solana Block
 - Auto save game progress on chain
 - Metaplex Game storefront for buying game characters and using them as game assets as NFT. Every character is Rare and has unique abilities.
 - Decentralised storage powered by ARWEAVE
-- Swap $SOL for $DUN(game token), on serum DEX swap (ALPHA) in game to deposit token in escrow to play (COMING SOON)
+- Using Metaplex NFT storefront powered by Arweave, one can claim a character by minting it on the marketplace and later equip it by selecting/unselcting it from the trophy cabinet in the user's dashboard.
+- Swap $SOL for $DUN(game token), on serum DEX swap (ALPHA) in game to deposit token in escrow to play 
 
 # Tech Stack
 Anchor Frame along with Solana Program Library and Rust Smart Contracts were used to build the dApp and the game is built on React and Phaser.
@@ -95,6 +96,10 @@ view game at [http://localhost:3000/](http://localhost:3000/)
 **Everytime, the user collects a chest, he is minted 20 DGN tokens as a reward**
 
 **These tokens are not to be minted once collected. Progress of the game is stored on-chain via the Solana Escrow Program**
+![image](https://user-images.githubusercontent.com/43913734/185047910-136aef48-fb36-463b-a194-3d90a3cc291e.png)
+
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/43913734/185047871-987fa3f1-e190-478b-a34b-459ca15f57fc.png">
+
 
 <img width="1440" alt="Screenshot 2022-06-12 at 6 51 04 PM" src="https://user-images.githubusercontent.com/43913734/173235800-f8192a87-49a8-4709-a069-049edd372db4.png">
 
