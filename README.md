@@ -10,7 +10,7 @@ A lightweight pixel multicharacter, Play To Earn dungeon game built on the Solan
   <img width="341" alt="image" src="https://user-images.githubusercontent.com/43913734/185039532-23096014-f551-4e29-8bd5-fecd55acf6c0.png">
   </p>
 
-  <p>View the project demo on <a href="">YouTube</a></p>
+  <p>View the project demo on <a href="https://youtu.be/AQeXWPqfBpE">YouTube</a></p>
 </p>
 
 # ARCHITECTURE
