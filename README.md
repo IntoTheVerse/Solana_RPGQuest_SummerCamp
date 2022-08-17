@@ -2,6 +2,8 @@
 
 A lightweight pixel multicharacter, Play To Earn dungeon game built on the Solana Blockchain, built with Phaser, powered by Metaplex. Our motivation is to enable users to own what you earn
 
+DECK [Click to view](https://docs.google.com/presentation/d/1M5KTicsYGiwNwYJ3owjTZDLgN_Eky-6fTXqcaUfxq8o/edit?usp=sharing)
+
 <p align="center">
   <a href="/">
     <img src="./screenshots/logo.png" alt="Logo" width="480" height="480">
