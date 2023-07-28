@@ -1,5 +1,8 @@
 <h1 align="center">Solana RPG Quest Game</h1>
 
+<a href="https://twitter.com/IntrantInferis"> Follow us on Twitter for the latest updates as this project is now being developed for mobile phones with even exciting gameplay mechanics and on-chain features, after the Solana Summer Camp hackathon </a>
+
+
 Winner of gaming track at Solana Summer Camp '22. Currently we're building this game on mobile on Unity
 
 A lightweight pixel multicharacter, Play To Earn dungeon game built on the Solana Blockchain, built with Phaser, powered by Metaplex. Our motivation is to enable users to own what you earn
